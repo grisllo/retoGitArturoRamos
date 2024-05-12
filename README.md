@@ -105,6 +105,6 @@ Y ya está, hemos logrado una fusión satisfactoria.
 ![fig022](img/fig022.png)
 
 ```
- println("Adiós mundo!");
+ System.out.println("Adiós mundo!");
  ```
 ---
