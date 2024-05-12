@@ -104,5 +104,7 @@ Y ya está, hemos logrado una fusión satisfactoria.
 
 ![fig022](img/fig022.png)
 
-# EXIT
+```
+ println("Adiós mundo!");
+ ```
 ---
