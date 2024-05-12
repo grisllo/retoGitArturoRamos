@@ -1,10 +1,13 @@
 # Memoria retoGitArturoRamos
 ![portadaGit](img/portadaGit.png)
 
+En este pequeño proyecto vamos a crear una suerte de guía para dar los primeros pasos por GitHub. Aprenderemos a crear y gestionar un repositorio en GitHub así como trabajar con el proyecto en local a través de la aplicación de GitHub Desktop sin que se pierda nada por el camino.
+
 ## 1.-Crea un repositorio nuevo que se llame retogit.
-A través del botón New en la pestaña Repositories de la página principal de nuestro perfil de GitHub accedemos a esta primera ventana donde vamos a configurar las primeras opciones. 
-Le damos un nombre al nuevo repositorio y le proporcionamos una descripción. Lo marcamos como público en este caso para que sea visible por necesidad de la última sección de este ejercicio. También le añadimos un README para detallar todo el proceso. De momento no especificamos la licencia. Pulsamos en Create repository y ya lo tenemos.
- 
+A través del botón **New** en la pestaña *Repositories* de la página principal de nuestro perfil de GitHub accedemos a esta primera ventana donde vamos a configurar las primeras opciones. 
+Le damos un nombre al nuevo repositorio y le proporcionamos una descripción. Lo marcamos como público en este caso para que sea visible por necesidad de la última sección de este ejercicio. También le añadimos un README para detallar todo el proceso. De momento no especificamos la licencia. Pulsamos en **Create repository** y ya lo tenemos.
+![fig001](img/fig001.png)
+ ---
 2.-Realiza la subida de la carpeta src de un proyecto en java.
 Procedemos a la subida de archivos al proyecto a través del botón Add file/Upload files.
  
