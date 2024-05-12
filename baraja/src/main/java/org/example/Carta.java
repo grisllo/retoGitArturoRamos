@@ -6,6 +6,11 @@ public class Carta {
 
     private int valor;
 
+    public Carta(String nombre, int valor) {
+        this.nombre = nombre;
+        this.valor = valor;
+    }
+
     public Carta(String nombre, String palo, int valor) {
         this.nombre = nombre;
         this.palo = palo;
