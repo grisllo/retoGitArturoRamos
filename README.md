@@ -60,20 +60,23 @@ En VS Code creamos la clase y guardamos.
  
 Volvemos a GitHub Desktop y vemos los cambios realizados en el proyecto que difieren con la rama del repositorio que tenemos clonado. Para hacer efectivos estos cambios y registrar el proceso le damos un nombre a este *commit*, una descripción explicándolo y confirmamos.
 
-![fig011](img/fig011.png)
+![fig011](img/fig011-2.png)
  
 Una vez hecho esto no hay cambios aparentes y nos sugiere un *push*, que será para llevarnos estos cambios a nivel local a nuestro repositorio online.
 
 ![fig012](img/fig012.png)
- 
+
+
 Al confirmar este *push* y teniendo ya actualizado el repositorio en la web se nos da la opción de comparar los cambios y solicitar un *pull request*. Esto lo dejaremos para más adelante, cuando queramos fusionar las ramas. Un *pull* consiste en la recepción de los cambios por parte de la rama principal o *main* de alguna de las ramas complementarias. Para esto hay que pasar por un proceso de solicitud y revisión de la que normalmente se encargan los responsables del proyecto.
 
 ![fig013](img/fig013.png)
- 
+
+
 Comprobamos que la nueva clase se ha creado dentro del proyecto. Ahí tenemos la clase Comodin.
 
 ![fig014](img/fig014.png)
 
+> Adopta el paso de la naturaleza: su secreto es la paciencia». — Ralph Waldo Emerson
 
 
 ## 6.-Modifica algún atributo de la clase nueva y realiza la actualización de la rama en el repositorio, documenta este proceso con el comentario “Edición clase – nombre de la clase”.
@@ -116,5 +119,5 @@ Y ya está, hemos logrado una fusión satisfactoria.
 
 ![fig022](img/fig022.png)
 
-#EXIT
+# EXIT
 ---
