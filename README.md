@@ -7,9 +7,9 @@ En este pequeño proyecto vamos a crear una suerte de guía para dar los primero
 
 A través del botón **New** en la pestaña *Repositories* de la página principal de nuestro perfil de GitHub accedemos a esta primera ventana donde vamos a configurar las primeras opciones. 
 Le damos un nombre al nuevo repositorio y le proporcionamos una descripción. Lo marcamos como público en este caso para que sea visible por necesidad de la última sección de este ejercicio. También le añadimos un README para detallar todo el proceso. De momento no especificamos la licencia. Pulsamos en **Create repository** y ya lo tenemos.
+
 ![fig001](img/fig001.png)
 
- ---
  
 ## 2.-Realiza la subida de la carpeta src de un proyecto en java.
 
