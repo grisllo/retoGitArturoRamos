@@ -1,4 +1,5 @@
-# Memoria Memoria retoGitArturoRamos
+# Memoria retoGitArturoRamos
+![portadaGit](img/portadaGit.png)
 
 ## 1.-Crea un repositorio nuevo que se llame retogit.
 A través del botón New en la pestaña Repositories de la página principal de nuestro perfil de GitHub accedemos a esta primera ventana donde vamos a configurar las primeras opciones. 
